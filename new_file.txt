@@ -2,6 +2,6 @@ hello
 
 git text
 
-add plus taehyung
-
-[2020116366][taehyung] modify and add text(과제 6번 수행 - branch_1에서 파일 수정함) - 2021/03/17
+오픈소스프로그래밍 HW 02
+10번 : branch_2에서 파일 수정 수행
+[김태형] master(main)의 기존 파일 수정 - branch_1과 다른 정보
